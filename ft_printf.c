@@ -6,15 +6,10 @@
 /*   By: fmajer <fmajer@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/14 15:40:57 by fmajer            #+#    #+#             */
-/*   Updated: 2024/10/14 16:01:20 by fmajer           ###   ########.fr       */
+/*   Updated: 2024/10/15 14:12:38 by fmajer           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <unistd.h>
-#include <stdarg.h>
-#include <stdint.h>
-#include <limits.h>
 #include "ft_printf.h"
 
 int	ft_printstr(char *str)
